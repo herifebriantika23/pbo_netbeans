@@ -1,4 +1,0 @@
-abstraksidemo.Mobil
-abstraksidemo.Kapal
-abstraksidemo.Kendaraan
-abstraksidemo.AbstraksiDemo
