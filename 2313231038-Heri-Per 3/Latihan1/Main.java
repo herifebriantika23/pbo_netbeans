@@ -79,6 +79,7 @@ motor.info();
 motor.bergerak();
 
 System.out.println("==Output Aplikasi dengan Interface==");
+
 MobilListrik tesla = new MobilListrik("Tesla Model 3");
 
 tesla.info();
