@@ -9,6 +9,7 @@ void berjalan();
 class Mobil implements Kendaraan {
 
 @Override
+
 public void berjalan() {
 
 System.out.println("Mobil berjalan dengan roda 4.");
@@ -22,6 +23,7 @@ System.out.println("Mobil berjalan dengan roda 4.");
 class Motor implements Kendaraan {
 
 @Override
+
 public void berjalan() {
 
 System.out.println("Motor berjalan dengan roda 2.");

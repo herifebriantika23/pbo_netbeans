@@ -89,33 +89,33 @@ Kalkulator k = new Kalkulator();
 
 System.out.println("~~~~Metode Pertama~~~~");
 
-System.out.println(k.tambah(2, 4)); // Memanggil metode pertama
+System.out.println(k.tambah(2, 4)); // Memanggil rumus tambah pada metode pertama
 
-System.out.println(k.kurang(2, 4)); // Memanggil metode pertama
+System.out.println(k.kurang(2, 4)); // Memanggil rumus kurang pada metode pertama
 
-System.out.println(k.kali(2, 4)); // Memanggil metode pertama
+System.out.println(k.kali(2, 4)); // Memanggil rumus kali pada metode pertama
 
-System.out.println(k.bagi(2, 4)); // Memanggil metode pertama
+System.out.println(k.bagi(2, 4)); // Memanggil rumus bagi pada metode pertama
 
 System.out.println("~~~~Metode Kedua~~~~");
 
-System.out.println(k.tambah(2, 4, 6)); // Memanggil metode kedua
+System.out.println(k.tambah(2, 4, 6)); // Memanggil rumus tambah pada metode kedua
 
-System.out.println(k.kurang(2, 4, 6)); // Memanggil metode kedua
+System.out.println(k.kurang(2, 4, 6)); // Memanggil rumus kurang pada metode kedua
 
-System.out.println(k.kali(2, 4, 6)); // Memanggil metode kedua
+System.out.println(k.kali(2, 4, 6)); // Memanggil rumus kali pada metode kedua
 
-System.out.println(k.bagi(2, 4, 6)); // Memanggil metode kedua
+System.out.println(k.bagi(2, 4, 6)); // Memanggil rumus bagi pada metode kedua
 
 System.out.println("~~~~Metode Ketiga~~~~");
 
-System.out.println(k.tambah(2.5, 4.5)); // Memanggil metode ketiga
+System.out.println(k.tambah(2.5, 4.5)); // Memanggil rumus tambah pada metode ketiga
 
-System.out.println(k.kurang(2.5, 4.5)); // Memanggil metode ketiga
+System.out.println(k.kurang(2.5, 4.5)); // Memanggil rumus kurang pada metode ketiga
 
-System.out.println(k.kali(2.5, 4.5)); // Memanggil metode ketiga
+System.out.println(k.kali(2.5, 4.5)); // Memanggil rumus kali pada metode ketiga
 
-System.out.println(k.bagi(2.5, 4.5)); // Memanggil metode ketiga
+System.out.println(k.bagi(2.5, 4.5)); // Memanggil rumus bagi pada metode ketiga
 
 }
 }

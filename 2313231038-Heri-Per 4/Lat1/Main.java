@@ -53,9 +53,9 @@ Anjing anjing1 = new Anjing();
 
 anjing1.nama = "Spike";
 
-anjing1.makan();
+anjing1.makan(); // Memanggil metode dari superclass
 
-anjing1.suara();
+anjing1.suara(); // Memanggil metode dari subclass
 
 }
 

@@ -26,7 +26,7 @@ Kucing kucing1 = new Kucing();
 
 System.out.println("~~~~Kucing~~~~");
 
-kucing1.makan();
+kucing1.makan(); 
 
 kucing1.suara();
 
